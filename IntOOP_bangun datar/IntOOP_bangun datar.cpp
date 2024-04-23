@@ -22,6 +22,7 @@ public :
 	}
 
 	void dispalay() {
+		cout << "panjangnya = " << panjang << endl; 
 
 	}
 };
