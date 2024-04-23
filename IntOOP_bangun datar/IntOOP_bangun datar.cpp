@@ -32,5 +32,8 @@ public :
 int main() {
 	bangunDatar pp; //Deklarasi objek pp dari class bangunDatar 
 	pp.input(); 
+	pp.dispalay(); 
+
+	return 0; 
 
 }
