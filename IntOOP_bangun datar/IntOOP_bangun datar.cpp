@@ -20,4 +20,8 @@ public :
 	float hitungluas() {
 		return panjang * Lebar; 
 	}
+
+	void dispalay() {
+
+	}
 };
