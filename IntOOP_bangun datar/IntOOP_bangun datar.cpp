@@ -24,6 +24,8 @@ public :
 	void dispalay() {
 		cout << "panjangnya = " << panjang << endl; 
 		cout << "Lebarnya = " << Lebar << endl; 
+		cout << "Luasnya = " << hitungluas() << endl; 
+
 
 
 	}
