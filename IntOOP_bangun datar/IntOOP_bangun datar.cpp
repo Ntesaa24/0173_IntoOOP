@@ -26,7 +26,11 @@ public :
 		cout << "Lebarnya = " << Lebar << endl; 
 		cout << "Luasnya = " << hitungluas() << endl; 
 
-
-
 	}
 };
+
+int main() {
+	bangunDatar pp; //Deklarasi objek pp dari class bangunDatar 
+	pp.input(); 
+
+}
